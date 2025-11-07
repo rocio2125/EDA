@@ -70,7 +70,9 @@ Incluye un mapa o plano interactivo del Metro de Madrid para visualizar las esta
 ## Licencia
 Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-### 📎 Fuentes de datos
+---
+
+## Fuentes de datos
 
 - [Consorcio Regional de Transportes de Madrid (CRTM)](https://www.crtm.es/)
 - [Metro de Madrid](https://www.metromadrid.es/es/transparencia/proyectos-y-datos)
